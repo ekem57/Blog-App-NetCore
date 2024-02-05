@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wq0/uLsWQ3z5wQnlKqt03Dzn67+BlUJSe+qIgWrOlK85MQB1h8r1LJfpfthFtxbmKwgZqeMLPz1S2cf3a3fPig==",
+  "dgSpecHash": "4G409z/1AB5wkahtebHzRNeWvfJ6RHStSmcV5UtvWB63XKD36z1F1mts8At2WBn6TROmQQBYK/hVuhCLcuGHvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

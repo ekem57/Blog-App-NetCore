@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DrNBez1BV2llcdxTXTjvw9/B7ebZ1o6TKLnPZEKLbbHeZWcIcYawAfnO1q7UTKYnRjBM0h+osIH+loDeu/VZKg==",
+  "dgSpecHash": "rTLjSieZGx1lKB5VGkVshpwJRmDFKfivYZ2Fvd02DZthlqG5pxLhYH/h0Uw5Wmps74GXCMe1CY/06Rl9vtQDfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HefaLab\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

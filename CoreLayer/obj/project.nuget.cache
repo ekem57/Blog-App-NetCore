@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8OZfI9yj7IiiBUgr3+puX2qsM8xELesXTMoWaiT7MiR6hL1VgO/1cGbyFxInU/QsBPU60n07lP+eU5O+/Bulg==",
+  "dgSpecHash": "cTQxSLK8wF8H7flrXVg3dMv64sCQn5pMdVIde5XMbzW3fKNp7LFrvXFOdXCuWrIUGhTuH/G/GveEA4scSgPYCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

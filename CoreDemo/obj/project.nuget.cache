@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fD5CS/TXK564n0npZQJ/iDga+MiNL6c9AZbWLbE1KzAvQxHxKudqIUkzjtx96omloUBiud3NRCrJILoVTChlJQ==",
+  "dgSpecHash": "Z9IYaf8YYkA8lFhIcxOeYLyz8/27w6AIt/xADichnpGTBezl2uKFeoif9D8rCyhF0m86C/KgtSpSwP6xzBzrrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HefaLab\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

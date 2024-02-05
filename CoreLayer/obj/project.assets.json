@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HefaLab\\Documents\\GitHub\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\HefaLab\\Documents\\GitHub\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\HefaLab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HefaLab\\Documents\\GitHub\\CoreDemo\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
