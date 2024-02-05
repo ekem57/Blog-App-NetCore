@@ -22,3 +22,15 @@ C:\Users\HefaLab\Documents\GitHub\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLa
 C:\Users\HefaLab\Documents\GitHub\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\HefaLab\Documents\GitHub\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\HefaLab\Documents\GitHub\CoreDemo\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
