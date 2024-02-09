@@ -29,11 +29,17 @@ namespace CoreDemo
         {
             services.AddControllersWithViews();
 
-            services.AddSession();
+           // services.AddSession();
 
            
+            //Bu komut kullanýcý authorize olmaya zorluyor
+            services.AddMvc(config =>
+            {
+                var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+                config.Filters.Add(new AuthorizeFilter(policy));
+            });
 
-            services.AddMvc();
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x=> { x.LoginPath = "/Login/Index"; });
             
             
                 
@@ -60,7 +66,7 @@ namespace CoreDemo
 
             app.UseAuthentication();
 
-            app.UseSession();
+           // app.UseSession();
 
             app.UseRouting();
 

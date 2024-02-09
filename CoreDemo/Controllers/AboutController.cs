@@ -15,7 +15,7 @@ namespace CoreDemo.Controllers
 
         public PartialViewResult SocialMediaAbout()
         {
-
+          //  var values=abm.GetList();
             return PartialView();
         }
     }
