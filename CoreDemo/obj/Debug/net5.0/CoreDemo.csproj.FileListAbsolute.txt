@@ -527,3 +527,5 @@ C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Raz
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\BlogListDashboard\Default.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryListDashboard\Default.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterAboutOnDashboard\Default.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterEditProfile.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterAdd.cshtml.g.cs
