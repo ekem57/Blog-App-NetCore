@@ -22,3 +22,15 @@ C:\Users\HefaLab\Documents\GitHub\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.
 C:\Users\HefaLab\Documents\GitHub\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
 C:\Users\HefaLab\Documents\GitHub\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
 C:\Users\HefaLab\Documents\GitHub\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
