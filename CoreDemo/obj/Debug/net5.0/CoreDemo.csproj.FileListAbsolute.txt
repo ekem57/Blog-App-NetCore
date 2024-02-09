@@ -522,3 +522,4 @@ C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Raz
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterNotification\Default.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogListByWriter.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogAdd.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\EditBlog.cshtml.g.cs
