@@ -530,3 +530,5 @@ C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Raz
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterEditProfile.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterAdd.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Notification\AllNotification.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\InBox.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\MessageDetails.cshtml.g.cs
