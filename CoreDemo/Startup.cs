@@ -29,9 +29,9 @@ namespace CoreDemo
         {
             services.AddControllersWithViews();
 
-           // services.AddSession();
+            // services.AddSession();
 
-           
+
             //Bu komut kullanýcý authorize olmaya zorluyor
             services.AddMvc(config =>
             {
@@ -39,11 +39,11 @@ namespace CoreDemo
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
 
-            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x=> { x.LoginPath = "/Login/Index"; });
-            
-            
-                
-        }   
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x => { x.LoginPath = "/Login/Index"; });
+
+
+
+        }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -66,7 +66,7 @@ namespace CoreDemo
 
             app.UseAuthentication();
 
-           // app.UseSession();
+            // app.UseSession();
 
             app.UseRouting();
 
@@ -74,6 +74,11 @@ namespace CoreDemo
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute(
+                    name: "areas",
+                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                 );
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
