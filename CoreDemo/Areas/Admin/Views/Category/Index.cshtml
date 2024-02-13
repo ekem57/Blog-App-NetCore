@@ -1,5 +1,7 @@
 ﻿@using EntityLayer.Concrete
-@model List<Category>
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@model IPagedList<EntityLayer.Concrete.Category>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/AdminLayout.cshtml";
@@ -20,9 +22,13 @@
        <tr>
         <th>@item.CategoryId</th>
         <th>@item.CategoryName</th>
-        <th> <a href="" class="btn btn-info">Pasif Yap</a> </th>
+        <th> <a href="/Admin/Category/DeleteCategory/@item.CategoryId/" id="DeleteBtn" onclick="return confirm('Silmek istediğinize emin misiniz?')" class="btn btn-info">Pasif Yap</a> </th>
         <th> <a href="" class="btn btn-outline-warning">Aktif Yap</a> </th>
         <th> <a href="" class="btn btn-success">Düzenle</a> </th>
     </tr>
    }
 </table>
+<br />
+<a href="/Admin/Category/AddCategory/" class="btn btn-primary"> Yeni Kategori </a>
+<br />
+@Html.PagedListPager((IPagedList)Model,page => Url.Action("Index",new {page}))

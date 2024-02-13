@@ -536,3 +536,8 @@ C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Raz
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Admin\AdminNavbarPartial.cshtml.g.cs
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\AddCategory.cshtml.g.cs
