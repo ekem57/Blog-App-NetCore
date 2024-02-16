@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+FKvRHoQ7YK+s+hKNKfSPk0TcB5AYjeXBBg73byGNfgIGMie4GIaW44mjUtX4bn3L2PjWkq2QqABQtsoMEgKKA==",
+  "dgSpecHash": "7grxYZSkHiD8aOf4b0NX8AzP8Eig65RNu0Hc1UpHskK3LMqYmD8761n+VfyPUsbrccWige411M2BnELLaknh7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\Blog-App-NetCore\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\HefaLab\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\irony.netcore\\1.0.11\\irony.netcore.1.0.11.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
