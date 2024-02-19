@@ -2,9 +2,30 @@
 <div class="tech-btm">
 
 	<p>Teknoji yazılım ve diğer bloklar </p>
-	<form action="/NewLetter/SubscribeMail/" method="post">
-		<input type="email" placeholder="Email" required="" name="Mail">
-		<input type="submit" value="Abone Ol">
+	<form  method="post">
+		<input type="email" placeholder="Email" required="" name="Mail" id="txtmail">
+		<input type="submit" id="btn" value="Abone Ol">
 	</form>
 
 </div>
+<script type="text/javascript">
+ $("#btn").click(x =>{
+            let id2 = $("#txtmail").val();
+           let values= {
+               Mail:id2,
+           };
+            $.ajax({
+                contentType: "application/json",
+                dataType: "json",
+                type: "post",
+                data:values,
+                url: "/NewLetter/SubscribeMail/",
+                
+                success: function (func) {
+                    let w = jQuery.parseJSON(func);
+                   
+                  
+                }
+            });
+        });
+</script>
