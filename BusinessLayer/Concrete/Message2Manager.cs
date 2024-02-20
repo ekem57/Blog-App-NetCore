@@ -24,12 +24,17 @@ namespace BusinessLayer.Concrete
         }
         public List<Message2> GetInboxListByWriter(int id)
         {
-            return _messageDal.GetListWithMessageByWriter(id);  
+            return _messageDal.GetInboxWithMessageByWriter(id);  
+        }
+
+        public List<Message2> GetSendBoxWithMessageByWriter(int id)
+        {
+            return _messageDal.GetSendBoxWithMessageByWriter(id);
         }
 
         public void TAdd(Message2 t)
         {
-            throw new NotImplementedException();
+            _messageDal.Insert(t);
         }
 
         public void TDelete(Message2 t)

@@ -37,7 +37,9 @@ namespace CoreDemo.Controllers
 
         public IActionResult BlogListByWriter()
         {
-            var usermail = User.Identity.Name;
+            var username = User.Identity.Name;
+            ViewBag.v = username;
+            var usermail = c.Users.Where(x => x.UserName == username).Select(x => x.Email).FirstOrDefault();
             ViewBag.v = usermail;
             var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterId).FirstOrDefault();
             var values = bm.GetListWithCategoryByWriterBm(writerID);
@@ -47,7 +49,9 @@ namespace CoreDemo.Controllers
         [HttpGet]
         public IActionResult BlogAdd()
         {
-            
+            var username = User.Identity.Name;
+            var usermail = c.Users.Where(x => x.UserName == username).Select(x => x.Email).FirstOrDefault();
+            var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterId).FirstOrDefault();
             List<SelectListItem> categoryValues = (from x in cm.GetList() select 
                                                    new SelectListItem {
                                                    Text = x.CategoryName, Value = x.CategoryId.ToString()
@@ -60,9 +64,12 @@ namespace CoreDemo.Controllers
         [HttpPost]
         public IActionResult BlogAdd(Blog b)
         {
-            var usermail = User.Identity.Name;
-            ViewBag.v = usermail;
+            var username = User.Identity.Name;
+            var usermail = c.Users.Where(x => x.UserName == username).Select(x => x.Email).FirstOrDefault();
             var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterId).FirstOrDefault();
+
+            ViewBag.v = username;
+
             BlogValidator bv = new BlogValidator();
             ValidationResult result = bv.Validate(b);
             if (result.IsValid)
@@ -93,6 +100,7 @@ namespace CoreDemo.Controllers
         [HttpGet]
         public IActionResult EditBlog(int id)
         {
+           
             List<SelectListItem> categoryValues = (from x in cm.GetList()
                                                    select
                            new SelectListItem
@@ -109,9 +117,11 @@ namespace CoreDemo.Controllers
         [HttpPost]
         public IActionResult EditBlog(Blog b)
         {
-            var usermail = User.Identity.Name;
-            ViewBag.v = usermail;
+            var username = User.Identity.Name;
+            var usermail = c.Users.Where(x => x.UserName == username).Select(x => x.Email).FirstOrDefault();
             var writerID = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterId).FirstOrDefault();
+
+            ViewBag.v = usermail;
             b.WriterId = writerID;
             b.BlogCreateDate = DateTime.Now.ToShortDateString();
             b.BlogStatus = true;

@@ -572,3 +572,9 @@ C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Cor
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
 C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\RegisterUser\Index.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\SendMessage.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\SendBox.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminMessage\Inbox.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminMessage\ComposeMessage.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminBlog\Index.cshtml.g.cs
+C:\Users\HefaLab\Documents\GitHub\Blog-App-NetCore\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminComment\Index.cshtml.g.cs
