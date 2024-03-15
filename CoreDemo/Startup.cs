@@ -54,6 +54,7 @@ namespace CoreDemo
                 options.Cookie.HttpOnly = true;
                 options.ExpireTimeSpan = TimeSpan.FromMinutes(100);
                 options.LoginPath = "/Login/Index/";
+                options.AccessDeniedPath = new Microsoft.AspNetCore.Http.PathString("/Login/AccesDenied");
                 options.SlidingExpiration = true;
             });
         }
